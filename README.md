@@ -1,4 +1,2 @@
 # hello-world
-$ docker run ubuntu /bin/echo 'Hello world'
-
-Hello world
+$ docker run ubuntu  'Hello world'
